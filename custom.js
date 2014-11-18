@@ -48,12 +48,12 @@ d3.custom.chart = function module() {
 
 // Usage
 //
-// var vis = d3.custom.chart()
+// var visFunction = d3.custom.chart()
 //     .w(500).h(200)
 //     .on("customHover", function(d, i) { 
 //         d3.select("#message").text(d); 
 //     });
 //
-// var container = d3.select("#container")
+// var graph = d3.select("#graph")
 //     .datum(data)
-//     .call(vis);
+//     .call(visFunction);
