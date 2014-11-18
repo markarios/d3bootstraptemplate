@@ -1,7 +1,7 @@
 {
-  "name": "SacDataVizMeetup",
+  "name": "GreatProjectName",
   "version": "1.0.0",
-  "description": "SacCrimeMap",
+  "description": "Best Description Ever",
   "keywords": [
     "data visualization",
     "tableau",
@@ -9,8 +9,8 @@
     "d3js"
   ],
   "author": {
-    "name": "Mark Rios",
-    "url": "http://www.statvisions.com/"
+    "name": "Mrs. Smith",
+    "url": "http://www.foo.com/"
   },
   "dependencies": {
       "d3":"3.4.11",
